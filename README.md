@@ -19,9 +19,9 @@ The pipeline was developed as part of the **NIDAR (National Innovation Challenge
 ---
 
 ## 📂 Repository Structure
-├── yellow_detection.py
-├── pixel_to_gps.py
-└── README.md
+- yellow_detection.py
+- pixel_to_gps.py
+- README.md
 
 ---
 
